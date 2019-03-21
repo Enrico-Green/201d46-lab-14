@@ -1,9 +1,9 @@
 PROJECT BY 
-ENRICO GREEN
-RICHARD VON HAGEL 
-ROBERT TANNER 
+ENRICO GREEN - front end 
+RICHARD VON HAGEL - back end 
+ROBERT TANNER - back end 
 
-
+CSS COLOR SCHEME FROM https://color.adobe.com/create/color-wheel/
 # Assignment Overview: Lab 14
 
 ## Create an Order Form and a Shopping Cart
