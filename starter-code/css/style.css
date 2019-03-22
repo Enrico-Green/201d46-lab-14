@@ -9,3 +9,19 @@ text: 43B200
 hyperlink: 5FFF00
 
 */
+
+body {
+    background-color: FB19FF;
+  }
+  
+  h1 {
+    color: 43B200;
+    text-align: center;
+    font-size: 6em;
+  }
+  
+  p {
+    color: 43B200;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 3em;
+  }
